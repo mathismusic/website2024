@@ -1,0 +1,11 @@
+---
+layout: post
+title: Separating things identified together
+mathjax: true
+---
+
+What is a function? *A relationship between a set $X$ and another set $Y$ that assigns to each element in $X$ precisely one element in $Y$*, you say. Absolutely. The element in $Y$ assigned to $x\in X$ is called the `value' that function $f$ takes on at $x$, and to make this obvious is denoted by $f(x)$.
+
+The key separation here to understand here is that functions are very often specified by a collection of *rules* that tell one the value the function takes on at each $x\in X$. The key separation here is that the rules - a rule is typically a string of characters in $x$, and in general is an algorithm with input $x$ - are *identified* with the function they describe. The function $f:\mathbb{R}\to\mathbb{R}$ that squares its input is described by the rule $x^2$, and to make the above shorter we simply write $f(x) = x^2$. The function $$f(x) = \begin{cases}\end
+
+{cases}$$
