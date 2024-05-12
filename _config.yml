@@ -6,6 +6,8 @@ url:                 http://lanyon.getpoole.com
 baseurl:             '/website-2024'
 paginate:            5
 permalink:           pretty
+# hosting on github
+# theme:               lanyon
 
 # About/contact
 author:
