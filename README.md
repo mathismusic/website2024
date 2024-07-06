@@ -39,6 +39,24 @@ title: About
 ---
 ```
 
+```
+---
+layout: page
+title: Perspectives
+---
+```
+
+```
+---
+layout: default
+title: Blog
+---
+```
+
+Then, include the `sidebar.html` partial in the `default.html` layout:
+
+```html
+
 **Why require a specific layout?** Jekyll will return *all* pages, including the `atom.xml`, and with an alphabetical sort order. To ensure the first link is *Home*, we exclude the `index.html` page from this list by specifying the `page` layout.
 
 
