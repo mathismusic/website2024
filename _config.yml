@@ -3,7 +3,7 @@ title:               Krishna
 tagline:             'Agaram'
 description:         'I hope what you are looking for finds you here.'
 url:                 https://mathismusic.github.io/website2024
-baseurl:             '/'
+baseurl:             ''
 paginate:            5
 permalink:           pretty
 # hosting on github
@@ -11,9 +11,9 @@ permalink:           pretty
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Krishna N Agaram
+  url:               https://mathismusic.github.io/website2024
+  email:             krishna.agaram1729@gmail.com
 
 # Gems
 plugins:

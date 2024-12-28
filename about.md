@@ -11,7 +11,7 @@ Hello! I'm Krishna Agaram, a final-year CS undergrad at IIT Bombay. I enjoy theo
 
 If I'm not working some math, I'm likely reading Asimov or Christie, playing the piano, or am outdoors on a run or bike, climb or hike. I'm always looking to learn new things and meet new people, so feel free to connect if any of the above topics interest you too (or even if not)!
 
-My [CV](https://mathismusic.github.io/krishna-agaram-cv-dec8.pdf) and [Github](https://github.com/mathismusic).
+My [CV](https://mathismusic.github.io/krishna-agaram-latest.pdf) and [Github](https://github.com/mathismusic).
 
 <!-- P.S. this website is a stub and is mostly a placeholder for now. A few old blog entries on the home page, that's all. More to come soon! -->
 
