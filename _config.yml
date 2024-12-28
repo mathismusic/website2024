@@ -2,8 +2,8 @@
 title:               Krishna
 tagline:             'Agaram'
 description:         'I hope what you are looking for finds you here.'
-url:                 https://mathismusic.github.io/website2024
-baseurl:             ''
+url:                 https://mathismusic.github.io
+baseurl:             '/website2024'
 paginate:            5
 permalink:           pretty
 # hosting on github
