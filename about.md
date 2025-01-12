@@ -20,10 +20,11 @@ I sometimes make notes, which you can find [here](https://github.com/mathismusic
 ### Coursework
 
 - **undergraduate CS theory**: data structures, algorithm analysis, logic, automata theory, cryptography, game theory and mechanism design
-- **graduate CS theory**: quantum information, spectral graph theory, approximation algorithms, randomized algorithms, theoretical machine learning, formal methods in machine learning
-- **math**: linear algebra, differential equations, calculus 1&2, analysis, abstract algebra, probability and statistics, numerical analysis, extremal graph theory and graph regularity (graduate)
-- **undergraduate systems**: software systems, architecture, networks, operating systems, databases, compilers
+- **graduate CS theory**: quantum information, spectral graph theory, approximation algorithms, randomized algorithms, probabilistic proofs*, theoretical machine learning, statistical learning theory*, theory of deep learning*, formal methods in machine learning
+- **math**: linear algebra, differential equations, calculus 1&2, analysis, abstract algebra, probability and statistics, numerical analysis, galois theory*, fourier analysis*, extremal graph theory and graph regularity (graduate)
+- **undergraduate systems**: software systems, architecture, networks, operating systems, databases, compilers, advanced compilers*
 
+(* -- ongoing)
 <!-- Additionally, I read up things that take my fancy: so far, complex analysis, analytic combinatorics, quantum algorithms and error correction, probabilistic proofs -->
 
 
