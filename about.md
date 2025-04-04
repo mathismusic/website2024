@@ -7,17 +7,19 @@ title: About
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p> -->
 
-Hello! I'm Krishna Agaram, a final-year CS undergrad at IIT Bombay. I enjoy theoretical CS, quantum computing, pure math, reinforcement learning, and the occasional dev project. I've worked and am working on reinforcement learning, property testing, probabilistic proofs and quantum information. Pure math gets me excited every time. Currently interested in combinatorics with an algebraic flavor.
+Hello! I'm Krishna Agaram, a final-year CS undergrad at IIT Bombay. I enjoy reinforcement learning, robots, deep learning theory, pure math and dev projects in my areas of interest. I've worked and am working on reinforcement learning, property testing and quantum information. Oh, and of course, I've done a fair amount of dev throughout my undergrad. Pure math gets me pretty excited. Robotics Dev as well: it's kinda the intersection of lots of stuff I like.
 
-If I'm not working some math, I'm likely reading Asimov or Christie, playing the piano, or am outdoors on a run or bike, climb or hike. I'm always looking to learn new things and meet new people, so feel free to connect if any of the above topics interest you too (or even if not)!
+If I'm not working some math, I'm likely reading Asimov or Christie, playing the piano, or am outdoors on a run or bike, climb or hike. I'm always looking to learn new things and meet new people, so feel free to connect if any of the above topics interest you too!
 
-My [CV](https://mathismusic.github.io/krishna-agaram-latest.pdf) and [Github](https://github.com/mathismusic).
+My (old) [CV](https://mathismusic.github.io/krishna-agaram-latest.pdf), [Github](https://github.com/mathismusic) and [LinkedIn](https://www.linkedin.com/in/krishna-n-agaram-5a4753324/).
 
 <!-- P.S. this website is a stub and is mostly a placeholder for now. A few old blog entries on the home page, that's all. More to come soon! -->
 
 I sometimes make notes, which you can find [here](https://github.com/mathismusic/notes). I am a big supporter of [inquiry-based learning](https://en.wikipedia.org/wiki/Inquiry-based_learning); if you're interested, I encourage checking out [JIBLM](https://jiblm.org/guides/index.php?category=jiblmjournal). I have authored one such guide to [Linear Algebra](https://mathismusic.github.io/ibl-linear-alg.pdf) and a more elementary, story-book guide to [Counting](https://mathismusic.github.io/story-draft.pdf) (draft). Finally, I have a [dead blog](https://mathismusic.github.io/website2024) that needs revival.
 
 ### Coursework
+
+I was previously very theory-oriented, coming from a math background, and my coursework sort of reflects a bias in that direction. However, over the last year, I've realized that I get much more satisfaction when other people can benefit from what I do, and so I'm moving towards more applied stuff. Of course, math et al is still fun, and will remain a top hobby.
 
 - **undergraduate CS theory**: data structures, algorithm analysis, logic, automata theory, cryptography, game theory and mechanism design
 - **graduate CS theory**: quantum information, spectral graph theory, approximation algorithms, randomized algorithms, probabilistic proofs\*, theoretical machine learning, statistical learning theory\*, theory of deep learning\*, formal methods in machine learning
