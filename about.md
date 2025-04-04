@@ -25,7 +25,7 @@ I was previously very theory-oriented, coming from a math background, and my cou
 - **graduate CS theory**: quantum information, spectral graph theory, approximation algorithms, randomized algorithms, probabilistic proofs\*, theoretical machine learning, statistical learning theory\*, theory of deep learning\*, formal methods in machine learning
 - **math**: linear algebra, differential equations, calculus 1&2, analysis, abstract algebra, probability and statistics, numerical analysis, galois theory\*, fourier analysis\*, extremal graph theory and graph regularity (graduate)
 - **undergraduate systems**: software systems, architecture, networks, operating systems, databases, compilers, advanced compilers\*
-- **other**
+<!-- - **other** -->
 
 (* -- ongoing)
 <!-- Additionally, I read up things that take my fancy: so far, complex analysis, analytic combinatorics, quantum algorithms and error correction, probabilistic proofs -->
