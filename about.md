@@ -7,11 +7,11 @@ title: About
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p> -->
 
-Hello! I'm Krishna Agaram, a final-year CS undergrad at IIT Bombay. I enjoy reinforcement learning, robots, deep learning theory, pure math and dev projects in my areas of interest. I've worked and am working on reinforcement learning, property testing and quantum information. Oh, and of course, I've done a fair amount of dev throughout my undergrad. Pure math gets me pretty excited. Robotics Dev as well: it's kinda the intersection of lots of stuff I like.
+Hello! I'm Krishna Agaram, a final-year CS undergrad at IIT Bombay (update: I just graduated, woohoo! Heading to grad school at UIUC). I enjoy robots (in particular, controlling underactuated systems), deep learning theory, pure math and cool dev projects. I've worked on reinforcement learning, property testing, probabilistic proofs and quantum information.
 
 If I'm not working some math, I'm likely reading Asimov or Christie, playing the piano, or am outdoors on a run or bike, climb or hike. I'm always looking to learn new things and meet new people, so feel free to connect if any of the above topics interest you too!
 
-My (old) [CV](https://mathismusic.github.io/krishna-agaram-latest.pdf), [Github](https://github.com/mathismusic) and [LinkedIn](https://www.linkedin.com/in/krishna-n-agaram-5a4753324/).
+My (old, Autumn 2024) [CV](https://mathismusic.github.io/krishna-agaram-latest.pdf), [Github](https://github.com/mathismusic) and [LinkedIn](https://www.linkedin.com/in/krishna-n-agaram-5a4753324/).
 
 <!-- P.S. this website is a stub and is mostly a placeholder for now. A few old blog entries on the home page, that's all. More to come soon! -->
 
@@ -19,7 +19,8 @@ I sometimes make notes, which you can find [here](https://github.com/mathismusic
 
 ### Coursework
 
-I was previously very theory-oriented, coming from a math background, and my coursework sort of reflects a bias in that direction. However, over the last year, I've realized that I get much more satisfaction when other people can benefit from what I do, and so I'm moving towards more applied stuff. Of course, math et al is still fun, and will remain a top hobby.
+<!-- I was previously very theory-oriented, coming from a math background, and my coursework sort of reflects a bias in that direction. However, over the last year, I've realized that I get much more satisfaction when other people can benefit from what I do, and so I'm moving towards more applied stuff. Of course, math et al is still fun, and will remain a top hobby. -->
+I like theory! --- in recent times, when it can guide practice.
 
 - **undergraduate CS theory**: data structures, algorithm analysis, logic, automata theory, cryptography, game theory and mechanism design
 - **graduate CS theory**: quantum information, spectral graph theory, approximation algorithms, randomized algorithms, probabilistic proofs\*, theoretical machine learning, statistical learning theory\*, theory of deep learning\*, formal methods in machine learning
