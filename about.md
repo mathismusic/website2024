@@ -7,11 +7,11 @@ title: About
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p> -->
 
-Hello! I'm Krishna Agaram, a final-year CS undergrad at IIT Bombay (update: I just graduated, woohoo! Heading to grad school at UIUC). I enjoy robots (in particular, controlling underactuated systems), deep learning theory, pure math and cool dev projects. I've worked on reinforcement learning, property testing, probabilistic proofs and quantum information.
+Hello! I'm Krishna Agaram, a recent CS graduate from IIT Bombay and incoming grad student at UIUC. I enjoy robots (in particular, controlling underactuated systems), deep learning theory, pure math and cool dev projects. I've worked on reinforcement learning, property testing, probabilistic proofs and quantum information.
 
 If I'm not working some math, I'm likely reading Asimov or Christie, playing the piano, or am outdoors on a run or bike, climb or hike. I'm always looking to learn new things and meet new people, so feel free to connect if any of the above topics interest you too!
 
-My (old, Autumn 2024) [CV](https://mathismusic.github.io/krishna-agaram-latest.pdf), [Github](https://github.com/mathismusic) and [LinkedIn](https://www.linkedin.com/in/krishna-n-agaram-5a4753324/).
+Here are my [CV](https://mathismusic.github.io/krishna-agaram-latest.pdf), [Github](https://github.com/mathismusic) and [LinkedIn](https://www.linkedin.com/in/krishna-n-agaram-5a4753324/).
 
 <!-- P.S. this website is a stub and is mostly a placeholder for now. A few old blog entries on the home page, that's all. More to come soon! -->
 
