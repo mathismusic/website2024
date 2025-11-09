@@ -7,7 +7,7 @@ title: About
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p> -->
 
-Hello! I'm Krishna Agaram, a grad student at UIUC advised by the amazing [Prof. Saurabh Gupta](https://saurabhg.web.illinois.edu/). Previously, I was a CS undergrad at IIT Bombay. I enjoy robot learning and manipulation, deep learning theory, pure math and cool dev projects. I currently work on sim-to-real robot manipulation and LLM sycophancy. In the past, I've worked on neural tangent kernels, reinforcement learning, property testing, probabilistic proofs and quantum information.
+Hello! I'm Krishna Agaram, a grad student at UIUC advised by the amazing [Prof. Saurabh Gupta](https://saurabhg.web.illinois.edu/). Previously, I was a CS undergrad at IIT Bombay. I enjoy robot learning and manipulation, reinforcement learning + theory, deep learning theory, pure math and cool dev projects. I currently work on sim-to-real robot manipulation and LLM sycophancy. In the past, I've worked on neural tangent kernels, reinforcement learning, property testing, probabilistic proofs and quantum information.
 
 If I'm not trying to get reinforcement learning to work or doing some math, I'm likely reading Asimov or Christie, playing the piano, or am outdoors on a run or bike, climb or hike. I'm always looking to learn new things and meet new people, so feel free to connect if there's something you'd like to discuss!
 
@@ -20,15 +20,13 @@ I sometimes make notes, which you can find [here](https://github.com/mathismusic
 ### Coursework
 
 <!-- I was previously very theory-oriented, coming from a math background, and my coursework sort of reflects a bias in that direction. However, over the last year, I've realized that I get much more satisfaction when other people can benefit from what I do, and so I'm moving towards more applied stuff. Of course, math et al is still fun, and will remain a top hobby. -->
-I like theory! --- in recent times, when it can guide practice.
+<!-- I like theory! --- in recent times, when it can guide practice. -->
 
-- **undergraduate CS theory**: data structures, algorithm analysis, logic, automata theory, cryptography, game theory and mechanism design
-- **graduate CS theory**: quantum information, spectral graph theory, approximation algorithms, randomized algorithms, probabilistic proofs\*, theoretical machine learning, statistical learning theory\*, theory of deep learning\*, formal methods in machine learning
-- **math**: linear algebra, differential equations, calculus 1&2, analysis, abstract algebra, probability and statistics, numerical analysis, galois theory\*, fourier analysis\*, extremal graph theory and graph regularity (graduate)
-- **undergraduate systems**: software systems, architecture, networks, operating systems, databases, compilers, advanced compilers\*
+- **undergrad CS**: data structures, algorithm analysis, logic, automata theory, cryptography, game theory and mechanism design, software systems, architecture, networks, operating systems, databases, compilers, advanced compilers, machine learning
+- **grad CS**: quantum information, spectral graph theory, approximation algorithms, randomized algorithms, probabilistic proofs, theoretical machine learning, statistical learning theory, theory of deep learning, formal methods in machine learning
+- **math**: linear algebra, differential equations, calculus 1&2, analysis, abstract algebra, probability and statistics, numerical analysis, fourier analysis, extremal graph theory and graph regularity
 <!-- - **other** -->
 
-(* -- ongoing)
 <!-- Additionally, I read up things that take my fancy: so far, complex analysis, analytic combinatorics, quantum algorithms and error correction, probabilistic proofs -->
 
 
