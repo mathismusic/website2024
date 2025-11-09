@@ -1,6 +1,6 @@
 ---
 layout: post
-title: When math turns to magic--Self-inverse transforms
+title: When math turns to magic: Self-inverse transforms and convolutions
 mathjax: true
 ---
 
