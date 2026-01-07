@@ -11,11 +11,10 @@ Hello! I'm Krishna Agaram, a grad student at UIUC advised by the amazing [Prof. 
 
 If I'm not trying to get reinforcement learning to work or doing some math, I'm likely reading Asimov or Christie, playing the piano, or am outdoors on a run or bike, climb or hike. I'm always looking to learn new things and meet new people, so feel free to connect if there's something you'd like to discuss!
 
-Here's my [CV](https://mathismusic.github.io/cv_oct25.pdf), [Github](https://github.com/mathismusic) and [LinkedIn](https://www.linkedin.com/in/krishna-n-agaram-5a4753324/).
-
-<!-- P.S. this website is a stub and is mostly a placeholder for now. A few old blog entries on the home page, that's all. More to come soon! -->
-
+Here's my [CV](https://mathismusic.github.io/krishna-agaram-cv.pdf), [Github](https://github.com/mathismusic) and [LinkedIn](https://www.linkedin.com/in/krishna-n-agaram-5a4753324/).
 I sometimes make notes, which you can find [here](https://github.com/mathismusic/notes). I am a big supporter of [inquiry-based learning](https://en.wikipedia.org/wiki/Inquiry-based_learning); if you're interested, I encourage checking out [JIBLM](https://jiblm.org/guides/index.php?category=jiblmjournal). I have authored one such guide to [Linear Algebra](https://mathismusic.github.io/ibl-linear-alg.pdf) and a more elementary, story-book guide to [Counting](https://mathismusic.github.io/story-draft.pdf) (draft). Finally, I have a [dead blog](https://mathismusic.github.io/website2024) that needs revival.
+
+Update: gave a talk at the American Physics Society Global Summit 2025 (unfortunately pre-recorded) on my work on reinforcement learning for constructing quantum states! Here is the [talk](https://drive.google.com/file/d/1r0wceCelYxuhtMi71Xxoms7_ThVMRl1j/view?usp=sharing) and associated [slides](https://drive.google.com/file/d/1YKq-M7_DunXS1fnhZR81ExtQ7sUe4-ES/view?usp=sharing).
 
 ### Coursework
 
