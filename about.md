@@ -7,7 +7,9 @@ title: About
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p> -->
 
-Update: I'm looking for robot learning internships at superfast startups; please find my resume [here](https://mathismusic.github.io/krishna-agaram-resume.pdf). I've got experience with vision, reinforcement learning, how to reduce the sim2real gap, and robot hardware.
+**New**: I'm looking for robot learning internships at superfast startups; please find my resume [here](https://mathismusic.github.io/krishna-agaram-resume.pdf). I've got experience with vision, reinforcement learning, how to reduce the sim2real gap, and robot hardware.
+
+---------------------
 
 Hello! I'm Krishna Agaram, a grad student at UIUC advised by the amazing [Prof. Saurabh Gupta](https://saurabhg.web.illinois.edu/). Previously, I was a CS undergrad at IIT Bombay. I enjoy robot learning and manipulation, reinforcement learning + theory, deep learning theory, pure math and cool dev projects. I currently work on sim-to-real robot manipulation for precise bimanual manipulation. In the past, I've worked on neural tangent kernels, reinforcement learning, property testing, probabilistic proofs and quantum information.
 
