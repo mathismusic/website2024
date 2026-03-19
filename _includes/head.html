@@ -30,13 +30,20 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Rosarivo:ital@0;1&display=swap" rel="stylesheet">
-  <link rel="car" sizes="144x144" href="{{ '/public/car.png' | relative_url }}">
+  <!-- <link rel="car" sizes="144x144" href="{{ '/public/car.png' | relative_url }}"> -->
   <link rel="shortcut icon" href="{{ '/public/favicon.ico' | relative_url }}">
 
   <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ '/atom.xml' | relative_url }}">
 
   <!-- MathJax support for LaTeX -->
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script>
+    MathJax = {
+      tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']],
+        displayMath: [['$$', '$$'], ['\\[', '\\]']]
+      }
+    };
+  </script>
   <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 
