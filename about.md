@@ -59,7 +59,7 @@ I sometimes make notes, which you can find [here](https://github.com/mathismusic
 
 ---
 
-<!-- Visitor map — replace the src below with your real ClustrMaps widget URL from https://clustrmaps.com/ -->
-<div style="text-align: center; margin-top: 2em;">
+<!-- ClustrMaps tracker (hidden — still records visits) -->
+<div style="display: none;">
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=uvx9TQ0MmXJ80xW6RylnbZcfoeREMY_gstzFYBvawkA"></script>
 </div>
