@@ -7,7 +7,7 @@ title: About
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p> -->
 
-**New**: I'm looking for robotics internships at superfast startups; please find my resume [here](https://mathismusic.github.io/krishna-agaram-resume.pdf). I've got experience with vision, reinforcement learning, how to reduce the sim2real gap, and robot hardware.
+<!-- **New**: I'm looking for robotics internships at superfast startups; please find my resume [here](https://mathismusic.github.io/krishna-agaram-resume.pdf). I've got experience with vision, reinforcement learning, how to reduce the sim2real gap, and robot hardware. -->
 
 ---------------------
 
