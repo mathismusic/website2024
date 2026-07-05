@@ -16,9 +16,9 @@ title: About
 <p style="font-size: 0.8em; color: #888; margin-top: 0.4em;">Cedar Ridge,<br>the Grand Canyon, AZ</p>
 </div>
 
-Hello! I'm Krishna Agaram, a grad student at UIUC advised by the amazing [Prof. Saurabh Gupta](https://saurabhg.web.illinois.edu/). Previously, I was a CS undergrad at IIT Bombay. I enjoy robot learning and manipulation, reinforcement learning + theory, deep learning theory, pure math and cool dev projects. 
+Hello! I'm Krishna Agaram, a grad student at UIUC working with the amazing [Prof. Saurabh Gupta](https://saurabhg.web.illinois.edu/). Previously, I was a CS undergrad at IIT Bombay. I enjoy robot learning and manipulation, reinforcement learning + theory, deep learning theory, pure math and cool dev projects. 
 
-I currently work on sim-to-real robot manipulation for long-horizon, contact-rich, precise bimanual tasks. In the past, I've worked on neural tangent kernels, reinforcement learning, property testing, probabilistic proofs and quantum information.
+I currently work on sim-to-real robot manipulation for long-horizon contact-rich tasks. In the past, I've worked on neural tangent kernels, reinforcement learning, property testing, probabilistic proofs and quantum information.
 
 ----------------
 
@@ -29,16 +29,16 @@ If I'm not trying to get reinforcement learning to work or doing some math, I'm 
 Here's my [Resume](https://mathismusic.github.io/krishna-agaram-resume.pdf), [Github](https://github.com/mathismusic) and [LinkedIn](https://www.linkedin.com/in/krishna-n-agaram-5a4753324/).
 I sometimes make notes, which you can find [here](https://github.com/mathismusic/notes). I am a big supporter of [inquiry-based learning](https://en.wikipedia.org/wiki/Inquiry-based_learning); if you're interested, I encourage checking out [JIBLM](https://jiblm.org/guides/index.php?category=jiblmjournal). In the past, I wrote one such guide to [Linear Algebra](https://mathismusic.github.io/ibl-linear-alg.pdf) and a more elementary, story-book guide to [Counting](https://mathismusic.github.io/story-draft.pdf) (draft). Finally, I have a kinda [dead blog](https://mathismusic.github.io/website2024) that needs more regular revival.
 
-### Publications
+### Research
 
 - *Quantum Advantage in Proof Systems without Entanglement*
-  <br>K. Agaram, N. Spooner, Y. Zheng. Under review
+  <br>K. Agaram, N. Spooner, Y. Zheng. **ICALP 2026**.
 
 - *Too Polite to Disagree: Understanding Sycophancy Propagation in Multi-Agent Systems*
-  <br>K. Agaram\*, V. Kasprova\*, A. Parulekar\*, A. Alrabah\*, R. Garg, S. Jha. Under review
+  <br>K. Agaram\*, V. Kasprova\*, A. Parulekar\*, A. Alrabah\*, R. Garg, S. Jha. **SIGDIAL 2026**.
 
 - *Preparing arbitrary stabilizer states via disentangling and path-aware reinforcement learning*
-  <br>K. Agaram\*, S. Midha, V. Garg. **QIP 2025** and **ML4PS@NeurIPS 2025**
+  <br>K. Agaram\*, S. Midha, V. Garg. **QIP 2025** and **ML4PS@NeurIPS 2025**.
 
 - *Anti-concentration of the value of the XOR-monogamy-of-entanglement game*
   <br>K. Agaram. Draft available [here](https://mathismusic.github.io/xor-counter.pdf).
