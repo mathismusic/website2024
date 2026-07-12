@@ -27,7 +27,7 @@ If I'm not trying to get reinforcement learning to work or doing some math, I'm 
 --------
 
 Here's my [Resume](https://mathismusic.github.io/krishna-agaram-resume.pdf), [Github](https://github.com/mathismusic) and [LinkedIn](https://www.linkedin.com/in/krishna-n-agaram-5a4753324/).
-I sometimes make notes, which you can find [here](https://github.com/mathismusic/notes). I am a big supporter of [inquiry-based learning](https://en.wikipedia.org/wiki/Inquiry-based_learning); if you're interested, I encourage checking out [JIBLM](https://jiblm.org/guides/index.php?category=jiblmjournal). In the past, I wrote one such guide to [Linear Algebra](https://mathismusic.github.io/ibl-linear-alg.pdf) and a more elementary, story-book guide to [Counting](https://mathismusic.github.io/story-draft.pdf) (draft). Finally, I have a kinda [dead blog](https://mathismusic.github.io/website2024) that needs more regular revival.
+I sometimes make notes, which you can find [here](https://github.com/mathismusic/notes). I am a big supporter of [inquiry-based learning](https://en.wikipedia.org/wiki/Inquiry-based_learning); if you're interested, I encourage checking out [JIBLM](https://jiblm.org/guides/index.php?category=jiblmjournal). In the past, I wrote one such guide to [Linear Algebra](https://mathismusic.github.io/ibl-linear-alg.pdf) and a more elementary, story-book guide to [Counting](https://mathismusic.github.io/story-draft.pdf) (draft). Finally, I have a kinda [dead blog](https://mathismusic.github.io/website2026) that needs more regular revival.
 
 ### Research
 
